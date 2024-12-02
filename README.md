@@ -2,23 +2,12 @@
 
 <a href="https://www.fontspace.com/category/lettering"><img src="https://see.fontimg.com/api/renderfont4/RpZmW/eyJyIjoiZnMiLCJoIjoyOCwidyI6MTEwMCwiZnMiOjI1LCJmZ2MiOiIjRTNFQ0U5IiwiYmdjIjoiIzI1MjkyOCIsInQiOjF9/SSdtIGFzcGlyaW5nIGEgZnVsbCBzdGFjayBkZXZlbG9wZXIgZnJvbSBJbmRpYSB3aXRoIGJpZyBkcmVhbXMgb2YgYmVjb21pbmcgYSBzb2Z0d2FyZSBlbmdpbmVlcmluZyBzdXBlcnN0YXIu/craglland.png" alt="Lettering fonts"></a>
 
-
-<p align="left"> <a href="https://twitter.com/0xmohsin" target="blank"><img src="https://img.shields.io/twitter/follow/0xmohsin?logo=twitter&style=for-the-badge" alt="0xmohsin" /></a> </p>
-
  <img align="right" alt="Coding" width="380" height="320" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWNkYmVkMmNlNmI5YzhkYWNkZWM5ZGI2OTJmODM0ODI3MWNkZTQyZCZjdD1z/mAZf4H4Pi0wwlj3ZAw/giphy.gif">
 
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🌱 I’m currently learning TypeScript and Next.js
 - 🤔 I’m looking for pair programming in Elixir.
 - 📫 How to reach me: **DevByMohsin@gmail.com**.
-
-
-
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/0xmohsin/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="" height="30" width="30" /></a>
-</p>
-
 
 
 <h3 align="left">🖥️ Languages and Tools:</h3>
