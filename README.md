@@ -4,7 +4,7 @@
 [![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](https://github.com/CodeByMohsin)
 
 
- <img align="right" alt="Coding" width="380" height="320" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWNkYmVkMmNlNmI5YzhkYWNkZWM5ZGI2OTJmODM0ODI3MWNkZTQyZCZjdD1z/mAZf4H4Pi0wwlj3ZAw/giphy.gif">
+ 
 
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🌱 I’m currently learning TypeScript and Next.js
