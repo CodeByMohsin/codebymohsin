@@ -8,7 +8,6 @@
 
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🌱 I’m currently learning TypeScript and Next.js
-- 🤔 I’m looking for pair programming in Elixir.
 - 📫 How to reach me: **DevByMohsin@gmail.com**.
 
 # 💻 Tech Stack:
